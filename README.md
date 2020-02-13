@@ -1,4 +1,5 @@
 Demonstration of Blockchain using Graphic System. 
+By - Shreehari Sharma
 
 ### Installation Instruction (Ubuntu/Linux)
 
@@ -19,3 +20,4 @@ $ ./output
 ### Instruction for Visual Studio
 
 - If you have Visual Studio installed, create a new project and copy the contents of the [main.cpp](https://github.com/roshan139154/Computer-Graphic-Project-on-working-of-Blockchain/blob/master/main.cpp), to your file and run it. If you haven't setup Visual Studio with OpenGl you can follow this [link](https://www.youtube.com/watch?v=HurTyJ3v_xg) and do so. 
+
